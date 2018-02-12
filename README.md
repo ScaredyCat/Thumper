@@ -1,3 +1,10 @@
+
+NOTE
+====
+
+The full sources were not in the repo when forked. Original dev did not include them. 
+
+
 Thumper
 =======
 
